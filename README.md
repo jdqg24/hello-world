@@ -1,2 +1,2 @@
 # hello-world
-For storing ideas
+To store ideas
